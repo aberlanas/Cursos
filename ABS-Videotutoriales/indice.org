@@ -1,0 +1,37 @@
+
+Resumen del Curso para el CEFIRE de Valencia
+del primer trimestre de 2020.
+
+Curso a distancia 21VA47IN006 - Herramientas de Creación de Vídeotutoriales para Aprendizaje Basado en Servicios 
+
+* Duracion
+  30 Horas
+
+* Objetivos
+
+  Desarrollar estrategias para la elaboración de recursos didácticos interactivos
+  Mostrar al profesorado las diferentes opciones educativas y de utilización de los recursos de generación propia.
+  Desarrollar estrategias para la elaboración de recursos didácticos interactivos
+  Mostrar al profesorado las diferentes opciones educativas y de utilización de los recursos de generación propia.
+  Introducción al aprendizaje basado en proyectos.
+  Introducción al aprendizaje basado en servicios.
+  Guion didáctico.
+  Guion multimedia.
+  Técnicas de creación de contenido.
+  Técnicas de grabación.
+  Montaje y edición.
+  Proyectos y plataformas.
+
+* Contenidos
+
+  ABS vs ABP.
+  Motivación para el alumnado.
+  Flipped Classroom.
+  Herramientas de planificación de proyectos (Kanban).
+  Herramientas y técnicas de creación de guion.
+  Herramientas y técnicas de creación de contenido (OBS).
+  Escenas y medios de entrada.
+  Efectos y recursos.
+  Herramientas y técnicas de Podcàsting.
+  Subtítulos y Accesibilidad.
+  Streaming y Plataformas.
