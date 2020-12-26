@@ -7,7 +7,7 @@
 #+LATEX_HEADER: \fancyhead{} % clear all header fields
 #+LATEX_HEADER: \pagestyle{fancy}
 #+LATEX_HEADER: \fancyhead[R]{Videotutoriales - ABS}
-#+LATEX_HEADER: \fancyhead[L]{[UD01]:Introducción}
+#+LATEX_HEADER: \fancyhead[L]{ [UD01] Introducción}
 #+LATEX_HEADER: \usepackage{wallpaper}
 #+LATEX_HEADER: \ULCornerWallPaper{0.9}{../rsrc/logos/header_europa.png}
 #+LATEX_HEADER: %\CenterWallPaper{0.7}{../rsrc/logos/watermark_1.png}
@@ -20,11 +20,55 @@
 
 * Introducción
 
-* Aprendizaje Significativo
 
+  Comenzaremos este curso realizando un breve repaso a algunos conceptos pedagógicos y técnicas 
+  de /enseñanza-aprendizaje/ que formarán la base sobre la que desarrollaremos las diferentes 
+  actividades. Estos conceptos pedagógicos no son especialmente modernos y forman parte
+  de lo que los docentes muchas veces aplican por intuición. No obstante, vale la pena
+  repasarlos (aunque sea muy brevemente) y ver como nos ayudarán en el diseño 
+  de las actividades y propuestas que realizaremos a lo largo del curso.
+
+  A lo largo de esta primera unidad repasaremos los conceptos de:
+
+  - Aprendizaje Significativo.
+  - Aprendizaje Inclusivo.
+  - Aprendizaje Basado en Proyectos (ABP).
+  - Aprendizaje Basado en Servicios.
+ 
+  Por último contaremos con una pequeña bibliografía que puede ser muy útil si deseamos
+  ampliar conocimientos de los temas expuestos.
+  
+  $\hrule$
+
+  \newpage
+* Aprendizaje Significativo
+ 
+  Dentro de las teorías /constructivistas/ uno de los pedagogos más influyentes fue *David Ausubel*, que dentro 
+  del siglo pasado realizó un estudio de cómo los estudiantes relacionan la información que se les suministra
+  con la que ya poseen, de tal manera que se construyen *redes de conocimiento* donde los nuevos datos se /enlazan/
+  con lo que ya se tiene aprendido. De esta manera los conocimientos previos forman el anclaje de los siguientes.
+
+  Ausubel rechaza la idea del /aprendizaje por repetición/ y no está del todo de acuerdo con las ideas de *Piaget* de que
+  /"sólo se aprende lo que se descubre"/, sino que también puede aprender de lo que se recibe si esto se presenta 
+  de la manera adecuada.
+
+  Para presentar al alumnado los conceptos que queramos trabajar deben cumplirse varias condiciones, entre las que 
+  podremos destacar:
+
+  - Lo que queremos que aprendan debe tener un significado en sí mismo.
+  - El alumnado posea conocimientos previos que le permitan relacionar el nuevo material 
+    con lo que ya forma parte del saber del alumnado.
+    
+  Además de estos dos conceptos, cabría destacar la presencia de elementos que formarán el puente entre 
+  lo que ya se sabe y lo que se plantea como nuevo.
+
+  Estos elementos de puente los trabajaremos a lo largo del curso.
+  
 * Aprendizaje Inclusivo
 
 * Aprendizaje Basado en Proyectos
 
 * Aprendizaje Basado en Servicios
+* Bibliografía
   
+  - Ausubel, D. (1983). Teoría del aprendizaje significativo. /Fascículos de CEIF, 1/ (1-10).
