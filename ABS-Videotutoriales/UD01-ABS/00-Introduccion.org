@@ -173,13 +173,14 @@
   - Planificación.
   - Desarrollo y evaluación de un proyecto. 
 
-  Todo esto pone en juego las habilidades y destrezas del alumnado en   
+  Todo esto pone en juego las habilidades y destrezas del alumnado en entornos que el alumnado considera útiles, tienen
+  /significado/. 
 
   Además, es adaptable a las circunstancias de cada grupo de estudiantes, en cualquier nivel o modalidad.
 
-  La variedad de proyectos facilita la experimentación de múltiples estructuras organizativas. Permite la actividad en diferentes equipos, trabajando en el aula y fuera de ella, con las personas de su grupo-clase y con las de otros cursos, con sus familias o con el vecindario.
+  La variedad de proyectos facilita la experimentación de múltiples estructuras organizativas. Permite la actividad en diferentes equipos, trabajando en el aula y fuera de ella, con las personas de su /grupo-clase/ y con las de otros cursos, con sus familias, entorno y sociedad.
 
-  Ayuda a empoderar al alumnado, que aprende a desarrollarse como persona participando en proyectos que conjugan su interés personal y el de la comunidad.
+  Y por último, ayuda a empoderar al alumnado, que aprende a desarrollarse como persona participando en proyectos que conjugan su interés personal y el de la comunidad.
 
   #+ATTR_LATEX: :width 6cm
   [[./imgs/puzzle.jpg]]
