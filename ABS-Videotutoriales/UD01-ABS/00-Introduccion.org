@@ -63,12 +63,74 @@
   lo que ya se sabe y lo que se plantea como nuevo.
 
   Estos elementos de puente los trabajaremos a lo largo del curso.
-  
+
+\newpage  
 * Aprendizaje Inclusivo
 
+  Dentro de la Comunidad Valenciana contamos con el mayor nivel de legislación educativa para hacer frente
+  al /aprendizaje inclusivo/. No vamos a ver en este curso detalles del /Index for Inclusion/, pero sin duda
+  valdría la pena que formara parte de las herramientas disponibles.
+
+  Sin entrar en demasiado detalle, podemos decir que la Educación Inclusiva es aquella que:
+
+  – Se centra en las necesidades de los alumnos, ofreciendo a todos las mismas oportunidades educativas, así como las ayudas para su desarrollo. 
+    Veremos que esto lo podremos realizar desde dentro del aula misma.
+
+  – Creación de ambientes de aprendizaje.
+
+  – Combina el trabajo en equipo con el individualizado para adaptarse a las necesidades de cada estudiante.
+
+  – Fomenta la colaboración, la empatía y el respeto.
+
+  – Los valores inclusivos se deben desarrollar en toda la comunidad educativa, no solo en un aula. Por eso es básico la colaboración de las familias y el entorno.
+
+  – Siempre hay que tener en cuenta que la diversidad, lejos de ser percibida como un problema, es un aspecto enriquecedor para todos, en la que los niños aprenden unos de otros sin importar sus características. Se educa teniendo en cuenta la diferencia, dando a conocer la individualidad de cada uno y destacando las particularidades como algo enriquecedor que beneficia a todo el grupo.
+  
+  Intentaremos a la hora de diseñar y desarrollar nuestras actividades educativas, tener todas estas cosas en cuenta.
+
+\newpage
 * Aprendizaje Basado en Proyectos
 
+  Durante los últimos años ha aparecido una corriente que fomenta que los contenidos 
+  impartidos por el docente y aprendidos por el alumnado no vengan guiados por una
+  serie de materias aparentemente inconexas y por la mera secuenciación de unidades
+  didácticas (/temas/), sino que sean determinados /proyectos/ con sentido propio 
+  los que vertebren y estimulen al alumnado para adquirir el conocimiento necesario 
+  para abarcarlos con éxitos.
+
+  El aprendizaje significativo se ve especialmente reflejado en este tipo de actividades, 
+  ya que una de sus premisas es la base misma de la metodología. 
+
+  Si en vez de trabajar las ecuaciones de primer grado, la ley de la oferta y la demanda,
+  la geografía y la música por separado en diferentes materias, las juntamos en un 
+  proyecto de simulación de una empresa de exportación de instrumentos musicales, le estamos
+  dando al alumnado un *proyecto* concreto donde los contenidos tienen una utilidad 
+  directa y tienen un significado concreto.
+
+  El /Aprendizaje Basado en Proyectos/ (a.k.a /ABP/), exige en un primer momento un esfuerzo 
+  por parte del docente, ya que debe dar un giro casi completo a la manera de trabajar 
+  los contenidos. Ya no son el fin último que debe conseguir el alumno, sino unas destrezas 
+  que debe dominar para conseguir un objetivo diferente. Se pone el foco en el /saber hacer/, 
+  más que en el /saber/.
+
+  Las herramientas que veremos a lo largo de todo el curso ponen en valor esta manera 
+  de trabajar, donde lo más importante no es el uso de la herramienta, sino el producto realizado y por tanto
+  el objetivo que buscamos con ella.
+
+  No trataremos a las herramientas como destrezas finales, sino como un medio para un fin : /el producto/. 
+  Sera esta creación la que nos indicará que herramientas usar, cómo organizarnos, cómo se presentará, etc.
+
 * Aprendizaje Basado en Servicios
+
+  Aplicando los conceptos vistos anteriormente de:
+
+  - Valores inclusivos desarrollados en toda la comunidad educativa.
+  - Colaboración de las familias y el entorno.
+  - La diversidad es enriquecedora.
+  
+  
 * Bibliografía
   
   - Ausubel, D. (1983). Teoría del aprendizaje significativo. /Fascículos de CEIF, 1/ (1-10).
+  - Booth, T., Ainscow, M., Black-Hawkins, K., Vaughan, M., & Shaw, L. (2002). /Index for inclusion. Developing learning and participation in schools/, 2.
+  - Martí, J. A., Heydrich, M., Rojas, M., & Hernández, A. (2010). /Aprendizaje basado en proyectos: una experiencia de innovación docente./ Revista Universidad EAFIT, 46(158), 11-21.
