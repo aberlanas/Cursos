@@ -64,7 +64,13 @@
 
   Estos elementos de puente los trabajaremos a lo largo del curso.
 
-\newpage  
+  #+ATTR_LATEX: :width 6cm
+  [[./imgs/learning.jpg]]
+  
+  $\hrule$
+
+  \newpage  
+
 * Aprendizaje Inclusivo
 
   Dentro de la Comunidad Valenciana contamos con el mayor nivel de legislación educativa para hacer frente
@@ -88,7 +94,10 @@
   
   Intentaremos a la hora de diseñar y desarrollar nuestras actividades educativas, tener todas estas cosas en cuenta.
 
-\newpage
+  $\hrule$
+
+  \newpage
+
 * Aprendizaje Basado en Proyectos
 
   Durante los últimos años ha aparecido una corriente que fomenta que los contenidos 
@@ -120,6 +129,13 @@
   No trataremos a las herramientas como destrezas finales, sino como un medio para un fin : /el producto/. 
   Sera esta creación la que nos indicará que herramientas usar, cómo organizarnos, cómo se presentará, etc.
 
+  #+ATTR_LATEX: :width 5cm
+  [[./imgs/lego.jpg]]
+
+  $\hrule$
+
+  \newpage
+
 * Aprendizaje Basado en Servicios
 
   Aplicando los conceptos vistos anteriormente de:
@@ -127,10 +143,80 @@
   - Valores inclusivos desarrollados en toda la comunidad educativa.
   - Colaboración de las familias y el entorno.
   - La diversidad es enriquecedora.
+
+  El /Aprendizaje Basado en Servicios/ (a.k.a /ABS/) va un paso más allá y propone que los /Proyectos/ que 
+  hagan los alumnos a lo largo del curso estén orientados a mejorar la comunidad que los rodea.
+
+  Esto tiene muchos factores a favor ya que dota a las acciones que realizan 
+  los alumnos de valores cómo:
+
+  - La solidaridad.
+  - El respeto por el medio ambiente.
+  - La ayuda a los demás.
+
+  Si conseguimos que unos alumnos se organicen para enseñar a utilizar el teléfono móvil a personas 
+  que no saben como funciona (personas mayores, migrantes, ...) se está ofreciendo a esas personas 
+  una ayuda que necesitan y a los alumnos una experiencia cívica relevante.
   
+  Opciones cómo elaborar un plan para cuidar un espacio natural, crear grupos de trabajo con jóvenes migrantes, 
+  preparación de material para la enseñanza de la lengua,... son ejemplos de proyectos que se pueden realizar 
+  y que ponen al alumnado en la sociedad que lo rodea, demostrando que aquello que se está realizando
+  tiene un impacto en el entorno.
+
+  El /ABS/ proporciona entornos los que desarrollar los aprendizajes de competencias, ya sea en primaria, secundaria o formación profesional. 
   
+  Esta metodología nos permite desarrollar el pensamiento estratégico, no en base a simulaciones o supuestos, sino a partir de un escenario *real*
+  que incluye todos los componentes: 
+
+  - Análisis de la realidad. 
+  - Creación. 
+  - Planificación.
+  - Desarrollo y evaluación de un proyecto. 
+
+  Todo esto pone en juego las habilidades y destrezas del alumnado en   
+
+  Además, es adaptable a las circunstancias de cada grupo de estudiantes, en cualquier nivel o modalidad.
+
+  La variedad de proyectos facilita la experimentación de múltiples estructuras organizativas. Permite la actividad en diferentes equipos, trabajando en el aula y fuera de ella, con las personas de su grupo-clase y con las de otros cursos, con sus familias o con el vecindario.
+
+  Ayuda a empoderar al alumnado, que aprende a desarrollarse como persona participando en proyectos que conjugan su interés personal y el de la comunidad.
+
+  #+ATTR_LATEX: :width 6cm
+  [[./imgs/puzzle.jpg]]
+
+
+  Existe una gran Red (en crecimiento) de Páginas Web que tratan este tipo de aprendizaje, no sólo 
+  para proponer ideas, sino también para poner en contacto con los diferentes agentes que están 
+  involucrados: asociaciones, ayuntamientos, sociedades, ...
+
+  Algunas Webs útiles son:
+
+  - [[https://www.aprendizajeservicio.net/][Aprendizaje Servicio]]
+  - [[https://roserbatlle.net/][Roser Batlle]]
+  - [[https://apsvalors.wordpress.com/][Aprenentatge Servei]]
+  - [[http://www.eduforics.com][Eduforics]]
+
+  A lo largo del curso veremos diferentes técnicas y propuestas que se pueden utilizar en proyectos con este
+  enfoque. Las posibilidades de aplicación de dichas técnicas dependerán de los cursos con los que queramos trabajar 
+  con el alumnado utilizando  esta metodología o el tiempo que queramos dedicarle dentro 
+  de un muy apretado curso ( 2020-2021 ). 
+
+  Sin embargo, el esfuerzo tiene su recompensa, ya que los resultados son muy motivadores para todo el alumnado.
+
+  $\hrule$
+
+  \newpage
+
+* Fuentes de Imágenes
+
+  - Figura 1 : Photo by Element5 Digital on Unsplash.
+  - Figura 2 : Photo by Markus Spiske on Unsplash.
+  - Figura 3 : Photo by Hans-Peter Gauster at Unsplash.
+
 * Bibliografía
   
   - Ausubel, D. (1983). Teoría del aprendizaje significativo. /Fascículos de CEIF, 1/ (1-10).
   - Booth, T., Ainscow, M., Black-Hawkins, K., Vaughan, M., & Shaw, L. (2002). /Index for inclusion. Developing learning and participation in schools/, 2.
+  - Vergara, J. /Juanjo Vergara recomienda las 10 mejores páginas sobre metodologías activas/.
   - Martí, J. A., Heydrich, M., Rojas, M., & Hernández, A. (2010). /Aprendizaje basado en proyectos: una experiencia de innovación docente./ Revista Universidad EAFIT, 46(158), 11-21.
+  - Rubio, L. A. U. R. A. (2008). /Guía Zerbikas 0: Aprendizaje y servicio solidario. Guía de bolsillo/. Bilbao: Fundación Zerbikas.
