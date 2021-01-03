@@ -109,12 +109,14 @@
   para abarcarlos con éxitos.
 
   El aprendizaje significativo se ve especialmente reflejado en este tipo de actividades, 
-  ya que una de sus premisas es la base misma de la metodología. 
+  ya que una de sus premisas es la base misma de la metodología. Además la propia motivación
+  del proyecto sirve de enlace para el nuevo conocimiento: /esto/ (refiriéndonos a los 
+  conceptos que estamos trabajando) lo estamos aprendiendo para poder /resolver/ un /determinado problema/.
 
   Si en vez de trabajar las ecuaciones de primer grado, la ley de la oferta y la demanda,
   la geografía y la música por separado en diferentes materias, las juntamos en un 
   proyecto de simulación de una empresa de exportación de instrumentos musicales, le estamos
-  dando al alumnado un *proyecto* concreto donde los contenidos tienen una utilidad 
+  dando al alumnado un *proyecto* determinado donde los contenidos tienen una utilidad 
   directa y tienen un significado concreto.
 
   El /Aprendizaje Basado en Proyectos/ (a.k.a /ABP/), exige en un primer momento un esfuerzo 
@@ -127,7 +129,7 @@
   de trabajar, donde lo más importante no es el uso de la herramienta, sino el producto realizado y por tanto
   el objetivo que buscamos con ella.
 
-  No trataremos a las herramientas como destrezas finales, sino como un medio para un fin : /el producto/. 
+  No trataremos a las herramientas como destrezas finales, sino como *un medio para un fin* : /el producto/. 
   Sera esta creación la que nos indicará que herramientas usar, cómo organizarnos, cómo se presentará, etc.
 
   #+ATTR_LATEX: :width 5cm
@@ -139,7 +141,18 @@
 
 * Aprendizaje Basado en Servicios
 
-  Aplicando los conceptos vistos anteriormente de:
+  Los Proyectos que hemos visto antes aunque forman parte de una simulación 
+  más concreta y fácilmente entendible por parte del alumnado, muchas veces
+  no son más que excusas o vehículos que aunque dotan de significado a las 
+  diferentes materias implicadas, no dejan de ser /ejemplos/ de uso de las 
+  destrezas adquiridas. 
+
+  Si esos proyectos que están realizando el alumnado los dotamos de utilidad
+  para ellos serán mejor recibidos y su interés será mayor. Si además, esos 
+  proyectos forman parte de su /entorno/, conseguimos que esos /Proyectos/ se 
+  transformen en /Servicios/.
+
+  Esto lo conseguiremos aplicando los conceptos vistos anteriormente de:
 
   - Valores inclusivos desarrollados en toda la comunidad educativa.
   - Colaboración de las familias y el entorno.
