@@ -41,9 +41,10 @@
   $\hrule$
 
   \newpage
+
 * Aprendizaje Significativo
  
-  Dentro de las teorías /constructivistas/ uno de los pedagogos más influyentes fue *David Ausubel*, que dentro 
+  Dentro de las teorías /constructivistas/, uno de los pedagogos más influyentes fue *David Ausubel*, que dentro 
   del siglo pasado realizó un estudio de cómo los estudiantes relacionan la información que se les suministra
   con la que ya poseen, de tal manera que se construyen *redes de conocimiento* donde los nuevos datos se /enlazan/
   con lo que ya se tiene aprendido. De esta manera los conocimientos previos forman el anclaje de los siguientes.
