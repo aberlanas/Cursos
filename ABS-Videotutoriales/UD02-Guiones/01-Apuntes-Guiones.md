@@ -54,4 +54,24 @@ cuando más adelante volvamos a un proyecto o estemos buscando un determinado re
 
 # El Guión Multimedia
 
+El concepto de guión multimedia (para el ámbito de este curso) se trata de una descripción más o menos exhaustiva de cuales serán los pasos que seguirá nuestro videotutorial o producto. No queremos realizar productos interactivos (aunque puede ser interesante y lo abordaremos en unidades posteriores), así que 
+tomaremos la definición de *Guión Multimedia* más simplificada.
 
+## Ejemplos de Guión
+
+En el siguiente ejemplo se plantea un Guión de cuales serán los elementos que compondrán un vídeo 
+que realizaremos para el alumnado con la intención de trabajar en clase determinados conceptos.
+
+- Título del vídeo.
+- Nivel educativo.
+- Presentación del fenómeno de migración de la Mariposa Monarca mediante un vídeo (1-2 minutos) extraido de la página de RTVE.
+- Dibujar en un mapa las rutas migratorias de las mariposas mediante *Excalidraw*.
+- Indicar las praderas en flor y las zonas de paso de las mariposas.
+- Reflexión final.
+- Créditos.
+
+![Mariposa Monarca](imgs/monarca.png){ height=256px}\
+
+\newpage
+
+El siguiente guión representaría un vídeo destinado a trabajar con 
