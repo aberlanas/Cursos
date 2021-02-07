@@ -2,12 +2,37 @@
 
 mkdir -p PDFS
 
-cd UD01-ABS
-for f in $(find . -name  "*.md"); do
-    echo "Procesando : ${f}"
-    DESTPDF=$(basename $f| cut -d "." -f1).pdf
-	pandoc ${f} -o ../PDFS/${DESTPDF} --from markdown --template ../rsrc/templates/eisvogel.tex --listings
+makeUD00(){
 
-done
+    echo " Making : UD00 "
+    UnitPrefix="UD00"
+    cd UD00-Introduccion
+    for f in $(find . -name  "*.md"); do
+        
+        DESTPDF=$(basename $f| cut -d "." -f1).pdf
+        echo " ** Procesando : ${f} -> ${UnitPrefix}-${DESTPDF}"
+        
+	    pandoc ${f} -o ../PDFS/${UnitPrefix}-${DESTPDF} --from markdown --template ../rsrc/templates/eisvogel.tex --listings
+    done
+    cd ..
+}
+
+makeUD01(){
+
+    echo " Making : UD00 "
+    cd UD01-ABS
+    UnitPrefix="UD01"
+    for f in $(find . -name  "*.md"); do
+        
+        DESTPDF=$(basename $f| cut -d "." -f1).pdf
+        echo " ** Procesando : ${f} -> ${UnitPrefix}-${DESTPDF}"
+
+	    pandoc ${f} -o ../PDFS/${UnitPrefix}-${DESTPDF} --from markdown --template ../rsrc/templates/eisvogel.tex --listings
+    done
+    cd ..
+}
+
+makeUD00
+makeUD01
 
 exit 0
