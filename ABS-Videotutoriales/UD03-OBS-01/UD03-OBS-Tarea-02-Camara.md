@@ -36,6 +36,11 @@ Así que contaréis con una serie de capturas en la tarea que explicarán cómo 
 
 ## Pasos
 
+Primero añadiremos a nuestra lista de fuentes disponibles para la escena la WebCam que tengamos disponible.
+
+![WebCam](imgs/OBS-WebCam-01.png)\
+
+
 
 Por último podéis visualizar el vídeo que tenéis en la plataforma para ver cómo puede quedar.
 
