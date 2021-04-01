@@ -1,6 +1,15 @@
 #!/bin/bash
 
-mkdir -p PDFS
+# A simple script to make PDFs from the Pandoc documentation 
+# of each Unit.
+
+clean-environment(){
+
+    echo " * Cleaning Environment "
+    mkdir -p PDFS
+    rm -f PDFS/*
+
+}
 
 makeUD00(){
 
@@ -93,15 +102,14 @@ makeUD05(){
 }
 
 
+clean-environment
+
 #makeUD00
 #makeUD01
 #makeUD02
 #makeUD03
-<<<<<<< HEAD
-makeUD04
-=======
 #makeUD04
 makeUD05
->>>>>>> 3a02c7211a1705aeab5c8b1888727fc3e86615bd
+
 
 exit 0

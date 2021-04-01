@@ -95,7 +95,7 @@ Desplazándoos al directorio donde se encuentra el ejecutable.
 
 # Videotutorial
 
-Ver el Videotutorial del funcionamiento de SubtitleEdit
+Ver el Videotutorial del funcionamiento de `SubtitleEdit`
 
 # Propuestas de uso
 
@@ -109,5 +109,7 @@ Algunas propuestas de actividades que se podrían realizar con el alumnado:
 
 # Tarea 01
 
-Siguiendo los pasos que se describen en el vídeo, subtitulad un vídeo vuestro (no hace falta que lo subtituléis entero), aportando la información que consideréis. Subid el vídeo y los subtítulos a la plataforma.
+Siguiendo los pasos que se describen en el vídeo, subtitulad un vídeo vuestro (no hace falta que lo subtituléis entero), aportando la información que consideréis a los subtítulos. 
+
+Subid el vídeo y los subtítulos a la plataforma.
 
