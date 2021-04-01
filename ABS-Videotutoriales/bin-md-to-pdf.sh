@@ -77,11 +77,31 @@ makeUD04(){
     cd ..
 }
 
+makeUD05(){
+
+    echo " Making : UD05 "
+    cd UD05-Subtitulos
+    UnitPrefix="UD05"
+    for f in $(find . -name  "*.md"); do
+        
+        DESTPDF=$(basename $f| cut -d "." -f1).pdf
+        echo " ** Procesando : ${f} -> ${UnitPrefix}-${DESTPDF}"
+
+	    pandoc ${f} -o ../PDFS/${UnitPrefix}-${DESTPDF} --from markdown --template ../rsrc/templates/eisvogel.tex --listings
+    done
+    cd ..
+}
+
 
 #makeUD00
 #makeUD01
 #makeUD02
 #makeUD03
+<<<<<<< HEAD
 makeUD04
+=======
+#makeUD04
+makeUD05
+>>>>>>> 3a02c7211a1705aeab5c8b1888727fc3e86615bd
 
 exit 0
