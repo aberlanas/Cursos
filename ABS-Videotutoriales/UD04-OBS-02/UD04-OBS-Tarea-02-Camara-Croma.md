@@ -1,5 +1,5 @@
 ---
-title: "UD03: OBS Avanzado - Tarea 01"
+title: "UD04: OBS Cámara - Tarea 02"
 subtitle: "Herramientas de Creación de Vídeotutoriales para Aprendizaje Basado en Servicios"
 author: Angel Berlanas Vicente
 header-includes: |
@@ -16,39 +16,23 @@ titlepage-background: "../rsrc/backgrounds/background-title.pdf"
 
 # Introducción
 
-En esta unidad ya hemos visto que podemos utilizar varias *fuentes* distintas en nuestros vídeos para no tener que realizar una **post-producción** más adelante. 
+Continuamos en esta tarea con el uso de la Cámara para crear efectos atractivos o que nos permitan crear un contenido de más alta calidad y complejidad.
 
-En unidades posteriores veremos uso básico de edición de vídeo:
+Vamos ver en esta tarea el uso de un fondo de Croma.
 
-- Transiciones.
-- Títulos.
-- Efectos.
-- Codificaciones
-- Pistas.
+La clave croma es una técnica que se utiliza en el mundo del cine y la televisión en la que se retira de una imágen todos aquellos puntos que contienen o se acercan a un determinado color (Clave Croma). Todos esos puntos quedan transparentes y permiten que se vea la imágen que se encuentra justo detrás.
 
-Con el objetivo de presentar un vídeo que se ajuste perfectamente a nuestros objetivos. 
+![Croma](imgs/croma.jpg)\
 
-Sin embargo durante esta unidad vamos a seguir utilizando el OBS y ampliando su funcionalidad, con el objetivo de
-reducir lo más posible esas tareas de **post-producción**.
+En nuestro vídeo esto se puede utilizar para hacer desaparecer el fondo de la cámara, situando lo que nosotros estamos grabando sobre una determinada imágen o vídeo.
 
 # Tarea 01
 
-Para la realización de esta tarea se recomienda la visualización de los vídeos:
+Visualizad el vídeo de la preparación, seguid lo pasos y cread un vídeo vosotr@s adecuado a vuestros contenidos.
 
-- [ Videotutorial ] - OBS : Filtros de Sonido
-- [ Videotutorial ] - OBS : Subtitulando
+Algunas ideas:
 
-Que tenéis disponibles en la plataforma en la Unidad 03.
-
-El propósito de esta tarea es que seleccionéis un vídeo que pueda ser interesante/relevante para vuestro módulo/materia/asignatura que queráis trabajar y que planteéis una serie de cuestiones acerca del vídeo.
-
-La idea es integrar un vídeo que ya tengamos (aunque podría ser un recurso cualquiera, un *pdf*), con una serie de cuestiones o reflexiones de tal manera que contemos con un único recurso para utilizar con el alumnado.
-
-En el vídeo de "Subtitulando" se explica que se podría quitar la voz al vídeo que se utiliza como fuente, grabando vosotr@s vuestra propia voz por encima. Pero eso es tan solo una posibilidad. Sed creativ@s y ajustar la tarea a vuestras ideas.
-
-La temática la elegís vosotr@s.
-
-
-
-
+- Marionetas sobre un vídeo de YouTube.
+- Vosotros participando en un debate de un cuadro.
+- Uso de una foto para explicar un determinado concepto.
 
