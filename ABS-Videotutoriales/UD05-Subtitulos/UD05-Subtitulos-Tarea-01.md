@@ -95,7 +95,9 @@ Desplazándoos al directorio donde se encuentra el ejecutable.
 
 # Videotutorial
 
-Ver el Videotutorial del funcionamiento de `SubtitleEdit`
+Ver el Videotutorial del funcionamiento de `SubtitleEdit` que está en la plataforma.
+
+[https://youtu.be/JbL_U4R9D00](https://youtu.be/JbL_U4R9D00)
 
 # Propuestas de uso
 
@@ -104,6 +106,7 @@ Algunas propuestas de actividades que se podrían realizar con el alumnado:
 - Subtitular a otro idioma un vídeo que de otra manera no estaría disponible.
 - Explicar para personas con problemas de audición mediante texto ciertos conceptos que se explican en un vídeo.
 - Utilizando libretos de obras de teatro, subtitular vídeos de representaciones.
+- Crear nosotros unos subtitulos y suministrarselos al alumnado para que los traduzca a un idioma determinado.
 - En entornos CLIL, realizar la traducción literal de un vídeo con el alumnado para practicar el Listening y el Reading (adaptable a cualquier idioma).
 - En un vídeo de un paseo sobre una serie de elementos, subtitular determinados objetos para identificarlos.
 
