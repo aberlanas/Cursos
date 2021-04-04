@@ -106,11 +106,13 @@ Algunas propuestas de actividades que se podrían realizar con el alumnado:
 - Subtitular a otro idioma un vídeo que de otra manera no estaría disponible.
 - Explicar para personas con problemas de audición mediante texto ciertos conceptos que se explican en un vídeo.
 - Utilizando libretos de obras de teatro, subtitular vídeos de representaciones.
-- Crear nosotros unos subtitulos y suministrarselos al alumnado para que los traduzca a un idioma determinado.
-- En entornos CLIL, realizar la traducción literal de un vídeo con el alumnado para practicar el Listening y el Reading (adaptable a cualquier idioma).
+- Crear nosotros unos subtitulos y suministrárselos al alumnado para que los traduzca a un idioma determinado.
+- En entornos CLIL, realizar la traducción literal de un vídeo con el alumnado para practicar el *Listening* y el *Reading* (adaptable a cualquier idioma).
 - En un vídeo de un paseo sobre una serie de elementos, subtitular determinados objetos para identificarlos.
 
-# Tarea 01
+# Tarea 01 (Opcional)
+
+*Esta unidad es enteramente opcional*, los contenidos están aquí para que los aprovechéis si los necesitárais.
 
 Siguiendo los pasos que se describen en el vídeo, subtitulad un vídeo vuestro (no hace falta que lo subtituléis entero), aportando la información que consideréis a los subtítulos. 
 

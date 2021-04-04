@@ -101,6 +101,21 @@ makeUD05(){
     cd ..
 }
 
+makeUD06(){
+
+    echo " Making : UD06 - Plataformas "
+    cd UD06-Plataformas
+    UnitPrefix="UD05"
+    for f in $(find . -name  "*.md"); do
+        
+        DESTPDF=$(basename $f| cut -d "." -f1).pdf
+        echo " ** Procesando : ${f} -> ${UnitPrefix}-${DESTPDF}"
+
+	    pandoc ${f} -o ../PDFS/${UnitPrefix}-${DESTPDF} --from markdown --template ../rsrc/templates/eisvogel.tex --listings
+    done
+    cd ..
+}
+
 
 clean-environment
 
@@ -109,7 +124,7 @@ clean-environment
 #makeUD02
 #makeUD03
 #makeUD04
-makeUD05
-
+#makeUD05
+makeUD06
 
 exit 0
