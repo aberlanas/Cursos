@@ -40,6 +40,14 @@ Para la realización de esta tarea se recomienda la visualización de los vídeo
 
 Que tenéis disponibles en la plataforma en la Unidad 03.
 
+## Nota para MAC
+
+Para todos aquellos que uséis MACs (Ordenadores de Apple) para la realización del curso, si encontráis problemas para grabar el audio del escritorio. Podéis utilizar el software **BlackHole**.
+
+- [Enlace a BlackHole](https://github.com/ExistentialAudio/BlackHole )
+
+# Tarea
+
 El propósito de esta tarea es que seleccionéis un vídeo que pueda ser interesante/relevante para vuestro módulo/materia/asignatura que queráis trabajar y que planteéis una serie de cuestiones acerca del vídeo.
 
 La idea es integrar un vídeo que ya tengamos (aunque podría ser un recurso cualquiera, un *pdf*), con una serie de cuestiones o reflexiones de tal manera que contemos con un único recurso para utilizar con el alumnado.
