@@ -39,5 +39,6 @@ En caso de que no contéis con una WebCam diferente a la del portátil, podéis 
 
 - Enlace: [DroidCam](https://play.google.com/store/apps/details?id=com.dev47apps.droidcam&hl=es&gl=US).
 
+En caso de que contéis con un iPhone (iOS), podéis hacer uso de **EpocCam**, un software que permite trabajar con la cámara del móvil como si fuese una WebCam.
 
 
