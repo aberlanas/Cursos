@@ -1,7 +1,7 @@
 ---
 title: Markdown y Apuntes
-author: Angel Berlanas Vicente
-date: 19 de Mayo de 2022
+author: Angel Berlanas Vicente - IES La Sénia
+date: \today
 ---
 
 # ¿Cómo empecé con esto?
@@ -24,15 +24,19 @@ date: 19 de Mayo de 2022
 
  * Te ayuda a poner foco en lo que estás haciendo.
 
-# Editor
+ * Imágenes + Actualizaciones
+
+# Edición
  
  * Puedes usar cualquiera, en cualquier momento, incluso en GitHub.
 
  * Los editores de WYSIWYG son un *Atraso*.
 
- * Puedes usar el `vim`, el `emacs`, el `vscode`,... 
+ * *Set* básico de herramientas de manejo de ficheros de texto.
 
  * Todos los *plugins* que puedas imaginar a tu disposición.
+
+ * Puedes usar el `vim`, el `emacs`, el `vscode`,... 
 
 ![Vim](rsrc/meme-vim.jpeg){width=250px}\
 
@@ -138,10 +142,12 @@ Al final, todo pasar a ser *LaTeX* y se nota. Markdown nos permite escribir fór
 especialmente compleja.
 
 ```markdown
-$$V_{sphere} = \frac{4}{3}\pi r^3$$
+$$V = \frac{4}{3}\pi r^3$$
 ```
 
-$$V_{sphere} = \frac{4}{3}\pi r^3$$
+$$
+V = \frac{4}{3}\pi r^3
+$$
 
 # Codigo fuente
 
@@ -173,13 +179,21 @@ Markdown, denominado *R-Markdown*, que permite insertar código.
 
 # Plantillas y exportación
 
+ Se pueden dividir los apuntes por tareas, temas por carpetas, o cualquier combinación que se requiera.
+
  Utilizando 
 
  * [ Pandoc ](https://pandoc.org/)
 
  * [ Eisvogel ](https://github.com/Wandmalfarbe/pandoc-latex-template)
 
+ Le aplicaremos plantillas y lo podremos exportar a diferentes formatos:
+ 
+ - pdf, html, rtf, odt, docx, ...
+
 # GitHub/GitLab/... 
+
+ Y todo esto disponible en Internet y para tod@s. 
 
  Algunos enlaces propios
 
@@ -193,7 +207,9 @@ Markdown, denominado *R-Markdown*, que permite insertar código.
 
 # Algunas Reflexiones
 
-*Dentro de 20 años podré leer el código de mis apuntes, no sé si lo necesitaré, pero sé que podré, por que es texto plano.*
+*Dentro de 20 años podré leer el código de mis apuntes, no sé si lo necesitaré, pero sé que podré, por que son texto plano.*
+
+                    *Usuaria de Emacs* **Onda Hostil**
 
 # Gracias por su atención
 
