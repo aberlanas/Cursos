@@ -3,10 +3,11 @@
 MARKDOWN_FILE="$1"
 OUTPUT_FOLDER="PDFS/"
 BASENAME=$(echo $(basename $MARKDOWN_FILE)|cut -d "." -f1)
-BEAMER_THEME="theme:Warsaw"
+#BEAMER_THEME="theme:Warsaw"
+BEAMER_THEME="theme:Hannover"
 
 
-echo " * BASENAME : ${BASENAME} "
+echo " * Compilando como BASENAME : ${BASENAME} "
 
 mkdir -p ${OUTPUT_FOLDER}
 

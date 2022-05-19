@@ -30,11 +30,48 @@ author: Angel Berlanas Vicente
 # ¿Cómo funciona?
 
 ## Encabezados
+
+ * `# Encabezado 1`
+ * `## Encabezado 2`
+ * `### Encabezado 3`
+
 ## Negrita, y cursiva
-## Tablas
+
+ * `*Cursiva*` $\longrightarrow$ *Cursiva*
+ * `**Negrita**` $\longrightarrow$ **Negrita**
+
+# Tablas
+
+```shell
+ | Columna 1 | Valor |
+ |:---------:|:-----:|
+ | Castellon | 12xxx |
+ | Valencia  | 46xxx |
+ | Alicante  | 03xxx |
+
+```
+
+ | Columna 1 | Valor |
+ |:---------:|:-----:|
+ | Castellon | 12xxx |
+ | Valencia  | 46xxx |
+ | Alicante  | 03xxx |
+
 ## Listas
+
 ## Enlaces
+
+```shell
+[Pandoc](https://pandoc.org/)
+```
+
+[Pandoc](https://pandoc.org/)
+
+
 ## Imágenes
+
+
+
 
 # LaTeX
 
@@ -43,8 +80,31 @@ especialmente compleja.
 
 # Codigo fuente
 
+La potencia de poder poner fragmentos de código fuente en los apuntes está fuera del alcance de otro tipo 
+de editores de texto.
+
+
+```Markdown
+```python
+count = 1
+target = 100
+while count < target:
+  print(" Vamos por "+str(count))
+  count = count + 1 
+```
+
+Y podemos hacer que se evalúe y se ejecute ahí dentro. 
 
 # R-Markdown
+
+Aprovechando esta potencia, el lenguaje de cálculos estadísticos `R` ha desarrollado un subconjunto de 
+Markdown, denominado *R-Markdown*, que permite insertar código.
+
+![RStudio](rsrc/r-export.png){width=100 height=300px float=right .center}\
+
+ * [R-Markdown-Editor](https://rstudio.github.io/visual-markdown-editing/)
+ * [R-Markdown-Curso](https://rmarkdown.rstudio.com/lesson-1.html)
+
 
 
 # Plantillas y exportación
