@@ -1,31 +1,52 @@
 ---
 title: Markdown y Apuntes
 author: Angel Berlanas Vicente
+date: 19 de Mayo de 2022
 ---
 
 # ¿Cómo empecé con esto?
 
  * Apuntes para un módulo de FP.
+
  * ¿Cómo había trabajado yo hasta ese momento?.
- * Homogéneidad y estilos.
+
+ * Homogeneidad y estilos.
+
  * WYSIWYG vs WYSIWYM vs Markdown.
 
-# ¿Qué es Markdown?
+# ¿Qué és Markdown?
 
- * Lenguaje de Markado Ligero.
+ * Lenguaje de Marcado Ligero.
+
  * Aleja el estilo de lo que estás escribiendo.
- * Minimalismo.
- * Foco en lo que estás haciendo.
 
-# Editor de programación favorito
+ * Minimalismo.
+
+ * Te ayuda a poner foco en lo que estás haciendo.
+
+# Editor
  
+ * Puedes usar cualquiera, en cualquier momento, incluso en GitHub.
+
  * Los editores de WYSIWYG son un *Atraso*.
- * Podía usar el `vim`, el `emacs`, el `vscode`,... 
+
+ * Puedes usar el `vim`, el `emacs`, el `vscode`,... 
+
+ * Todos los *plugins* que puedas imaginar a tu disposición.
+
+![Vim](rsrc/meme-vim.jpeg){width=250px}\
 
 # Editores de Markdown visuales
 
  * WriteMonkey
- *  
+
+ * Typora
+
+ * Joplin
+
+ * Mark Text
+
+ * Zettlr
 
 # ¿Cómo funciona?
 
@@ -57,7 +78,33 @@ author: Angel Berlanas Vicente
  | Valencia  | 46xxx |
  | Alicante  | 03xxx |
 
-## Listas
+
+# Listas
+
+## Listas (ul)
+
+```markdown
+ * Lista sin números
+ * Elemento random
+ * Elemento random
+```
+
+ * Lista sin números
+ * Elemento random
+ * Elemento random
+
+## Listas (ol)
+
+```markdown
+ 1. Elemento 1
+ 2. Elemento 2
+ 3. Elemento 3
+```
+ 1. Elemento 1
+ 2. Elemento 2
+ 3. Elemento 3
+
+# Enlaces e Imágenes
 
 ## Enlaces
 
@@ -67,16 +114,34 @@ author: Angel Berlanas Vicente
 
 [Pandoc](https://pandoc.org/)
 
-
 ## Imágenes
 
+```markdown
+![Dragon Meme](rsrc/meme-dragons.jpg)\
+```
 
+![Dragon Meme](rsrc/meme-dragons.jpg){width=200px}\
 
+# Potencia
+
+ * `\tableofcontents`
+
+ * `\listoffigures`
+
+ * También se pueden poner notas al pié[^1]
+
+[^1]:Esto es una nota al pié
 
 # LaTeX
 
-Al final, todo esto es ~\LaTeX~ y se nota. Podemos poner fórmulas, gráficos y cualquier cosa que quisiéramos 
+Al final, todo pasar a ser *LaTeX* y se nota. Markdown nos permite escribir fórmulas, gráficos y cualquier cosa que quisiéramos 
 especialmente compleja.
+
+```markdown
+$$V_{sphere} = \frac{4}{3}\pi r^3$$
+```
+
+$$V_{sphere} = \frac{4}{3}\pi r^3$$
 
 # Codigo fuente
 
@@ -103,17 +168,16 @@ Markdown, denominado *R-Markdown*, que permite insertar código.
 ![RStudio](rsrc/r-export.png){width=100 height=300px float=right .center}\
 
  * [R-Markdown-Editor](https://rstudio.github.io/visual-markdown-editing/)
+
  * [R-Markdown-Curso](https://rmarkdown.rstudio.com/lesson-1.html)
-
-
 
 # Plantillas y exportación
 
  Utilizando 
 
  * [ Pandoc ](https://pandoc.org/)
- * [ Eisvogel ](https://github.com/Wandmalfarbe/pandoc-latex-template)
 
+ * [ Eisvogel ](https://github.com/Wandmalfarbe/pandoc-latex-template)
 
 # GitHub/GitLab/... 
 
